@@ -15,7 +15,7 @@ This application will provide a platform for:
 - Frontend (Web): React.js
 - Frontend (Mobile): React Native
 - Backend: Node.js with Express
-- Database: PostgreSQL
+- Database: MongoDB
 - Authentication: JWT with role-based access control
 - Containerization: Docker
 - CI/CD: GitHub Actions
